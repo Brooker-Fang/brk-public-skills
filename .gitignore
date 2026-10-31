@@ -1,0 +1,14 @@
+# Local credentials and private working material
+.env
+.env.*
+!.env.example
+.private/
+evidence/
+secrets/
+
+# Local tooling and generated files
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
